@@ -1,0 +1,358 @@
+,Selected Geographies,abbreviations,FIPS_code,median_income,month
+0,Alabama,AL,1,55000.0,jan
+1,Alaska,AK,2,67500.0,jan
+2,Arizona,AZ,4,55000.0,jan
+3,Arkansas,AR,5,45000.0,jan
+4,California,CA,6,67500.0,jan
+5,Colorado,CO,8,67500.0,jan
+6,Connecticut,CT,9,67500.0,jan
+7,Delaware,DE,10,55000.0,jan
+8,District of Columbia,DC,11,87500.0,jan
+9,Florida,FL,12,45000.0,jan
+10,Georgia,GA,13,55000.0,jan
+11,Hawaii,HI,15,67500.0,jan
+12,Idaho,ID,16,55000.0,jan
+13,Illinois,IL,17,67500.0,jan
+14,Indiana,IN,18,55000.0,jan
+15,Iowa,IA,19,55000.0,jan
+16,Kansas,KS,20,55000.0,jan
+17,Kentucky,KY,21,45000.0,jan
+18,Louisiana,LA,22,45000.0,jan
+19,Maine,ME,23,55000.0,jan
+20,Maryland,MD,24,87500.0,jan
+21,Massachusetts,MA,25,87500.0,jan
+22,Michigan,MI,26,55000.0,jan
+23,Minnesota,MN,27,67500.0,jan
+24,Mississippi,MS,28,37500.0,jan
+25,Missouri,MO,29,45000.0,jan
+26,Montana,MT,30,45000.0,jan
+27,Nebraska,NE,31,55000.0,jan
+28,Nevada,NV,32,55000.0,jan
+29,New Hampshire,NH,33,67500.0,jan
+30,New Jersey,NJ,34,87500.0,jan
+31,New Mexico,NM,35,45000.0,jan
+32,New York,NY,36,67500.0,jan
+33,North Carolina,NC,37,45000.0,jan
+34,North Dakota,ND,38,55000.0,jan
+35,Ohio,OH,39,55000.0,jan
+36,Oklahoma,OK,40,55000.0,jan
+37,Oregon,OR,41,55000.0,jan
+38,Pennsylvania,PA,42,55000.0,jan
+39,Rhode Island,RI,44,55000.0,jan
+40,South Carolina,SC,45,55000.0,jan
+41,South Dakota,SD,46,55000.0,jan
+42,Tennessee,TN,47,45000.0,jan
+43,Texas,TX,48,55000.0,jan
+44,Utah,UT,49,67500.0,jan
+45,Vermont,VT,50,67500.0,jan
+46,Virginia,VA,51,87500.0,jan
+47,Washington,WA,53,67500.0,jan
+48,West Virginia,WV,54,37500.0,jan
+49,Wisconsin,WI,55,55000.0,jan
+50,Wyoming,WY,56,55000.0,jan
+51,Alabama,AL,1,55000.0,feb
+52,Alaska,AK,2,67500.0,feb
+53,Arizona,AZ,4,55000.0,feb
+54,Arkansas,AR,5,45000.0,feb
+55,California,CA,6,67500.0,feb
+56,Colorado,CO,8,67500.0,feb
+57,Connecticut,CT,9,87500.0,feb
+58,Delaware,DE,10,67500.0,feb
+59,District of Columbia,DC,11,87500.0,feb
+60,Florida,FL,12,55000.0,feb
+61,Georgia,GA,13,55000.0,feb
+62,Hawaii,HI,15,67500.0,feb
+63,Idaho,ID,16,55000.0,feb
+64,Illinois,IL,17,67500.0,feb
+65,Indiana,IN,18,55000.0,feb
+66,Iowa,IA,19,55000.0,feb
+67,Kansas,KS,20,55000.0,feb
+68,Kentucky,KY,21,45000.0,feb
+69,Louisiana,LA,22,45000.0,feb
+70,Maine,ME,23,45000.0,feb
+71,Maryland,MD,24,87500.0,feb
+72,Massachusetts,MA,25,87500.0,feb
+73,Michigan,MI,26,55000.0,feb
+74,Minnesota,MN,27,67500.0,feb
+75,Mississippi,MS,28,37500.0,feb
+76,Missouri,MO,29,55000.0,feb
+77,Montana,MT,30,55000.0,feb
+78,Nebraska,NE,31,55000.0,feb
+79,Nevada,NV,32,67500.0,feb
+80,New Hampshire,NH,33,67500.0,feb
+81,New Jersey,NJ,34,87500.0,feb
+82,New Mexico,NM,35,45000.0,feb
+83,New York,NY,36,55000.0,feb
+84,North Carolina,NC,37,45000.0,feb
+85,North Dakota,ND,38,55000.0,feb
+86,Ohio,OH,39,55000.0,feb
+87,Oklahoma,OK,40,55000.0,feb
+88,Oregon,OR,41,55000.0,feb
+89,Pennsylvania,PA,42,55000.0,feb
+90,Rhode Island,RI,44,55000.0,feb
+91,South Carolina,SC,45,45000.0,feb
+92,South Dakota,SD,46,55000.0,feb
+93,Tennessee,TN,47,45000.0,feb
+94,Texas,TX,48,55000.0,feb
+95,Utah,UT,49,67500.0,feb
+96,Vermont,VT,50,67500.0,feb
+97,Virginia,VA,51,87500.0,feb
+98,Washington,WA,53,67500.0,feb
+99,West Virginia,WV,54,45000.0,feb
+100,Wisconsin,WI,55,55000.0,feb
+101,Wyoming,WY,56,55000.0,feb
+102,Alabama,AL,1,55000.0,mar
+103,Alaska,AK,2,67500.0,mar
+104,Arizona,AZ,4,67500.0,mar
+105,Arkansas,AR,5,45000.0,mar
+106,California,CA,6,67500.0,mar
+107,Colorado,CO,8,67500.0,mar
+108,Connecticut,CT,9,87500.0,mar
+109,Delaware,DE,10,67500.0,mar
+110,District of Columbia,DC,11,87500.0,mar
+111,Florida,FL,12,55000.0,mar
+112,Georgia,GA,13,55000.0,mar
+113,Hawaii,HI,15,67500.0,mar
+114,Idaho,ID,16,55000.0,mar
+115,Illinois,IL,17,67500.0,mar
+116,Indiana,IN,18,55000.0,mar
+117,Iowa,IA,19,55000.0,mar
+118,Kansas,KS,20,55000.0,mar
+119,Kentucky,KY,21,45000.0,mar
+120,Louisiana,LA,22,45000.0,mar
+121,Maine,ME,23,55000.0,mar
+122,Maryland,MD,24,87500.0,mar
+123,Massachusetts,MA,25,87500.0,mar
+124,Michigan,MI,26,55000.0,mar
+125,Minnesota,MN,27,67500.0,mar
+126,Mississippi,MS,28,37500.0,mar
+127,Missouri,MO,29,55000.0,mar
+128,Montana,MT,30,55000.0,mar
+129,Nebraska,NE,31,67500.0,mar
+130,Nevada,NV,32,67500.0,mar
+131,New Hampshire,NH,33,67500.0,mar
+132,New Jersey,NJ,34,87500.0,mar
+133,New Mexico,NM,35,45000.0,mar
+134,New York,NY,36,67500.0,mar
+135,North Carolina,NC,37,55000.0,mar
+136,North Dakota,ND,38,55000.0,mar
+137,Ohio,OH,39,55000.0,mar
+138,Oklahoma,OK,40,55000.0,mar
+139,Oregon,OR,41,67500.0,mar
+140,Pennsylvania,PA,42,55000.0,mar
+141,Rhode Island,RI,44,55000.0,mar
+142,South Carolina,SC,45,55000.0,mar
+143,South Dakota,SD,46,55000.0,mar
+144,Tennessee,TN,47,55000.0,mar
+145,Texas,TX,48,55000.0,mar
+146,Utah,UT,49,67500.0,mar
+147,Vermont,VT,50,67500.0,mar
+148,Virginia,VA,51,87500.0,mar
+149,Washington,WA,53,67500.0,mar
+150,West Virginia,WV,54,45000.0,mar
+151,Wisconsin,WI,55,55000.0,mar
+152,Wyoming,WY,56,55000.0,mar
+153,Alabama,AL,1,55000.0,apr
+154,Alaska,AK,2,67500.0,apr
+155,Arizona,AZ,4,67500.0,apr
+156,Arkansas,AR,5,45000.0,apr
+157,California,CA,6,67500.0,apr
+158,Colorado,CO,8,87500.0,apr
+159,Connecticut,CT,9,87500.0,apr
+160,Delaware,DE,10,67500.0,apr
+161,District of Columbia,DC,11,87500.0,apr
+162,Florida,FL,12,55000.0,apr
+163,Georgia,GA,13,55000.0,apr
+164,Hawaii,HI,15,67500.0,apr
+165,Idaho,ID,16,55000.0,apr
+166,Illinois,IL,17,67500.0,apr
+167,Indiana,IN,18,55000.0,apr
+168,Iowa,IA,19,55000.0,apr
+169,Kansas,KS,20,67500.0,apr
+170,Kentucky,KY,21,45000.0,apr
+171,Louisiana,LA,22,45000.0,apr
+172,Maine,ME,23,55000.0,apr
+173,Maryland,MD,24,87500.0,apr
+174,Massachusetts,MA,25,87500.0,apr
+175,Michigan,MI,26,67500.0,apr
+176,Minnesota,MN,27,67500.0,apr
+177,Mississippi,MS,28,45000.0,apr
+178,Missouri,MO,29,55000.0,apr
+179,Montana,MT,30,55000.0,apr
+180,Nebraska,NE,31,67500.0,apr
+181,Nevada,NV,32,67500.0,apr
+182,New Hampshire,NH,33,67500.0,apr
+183,New Jersey,NJ,34,87500.0,apr
+184,New Mexico,NM,35,55000.0,apr
+185,New York,NY,36,67500.0,apr
+186,North Carolina,NC,37,55000.0,apr
+187,North Dakota,ND,38,67500.0,apr
+188,Ohio,OH,39,55000.0,apr
+189,Oklahoma,OK,40,55000.0,apr
+190,Oregon,OR,41,67500.0,apr
+191,Pennsylvania,PA,42,67500.0,apr
+192,Rhode Island,RI,44,55000.0,apr
+193,South Carolina,SC,45,55000.0,apr
+194,South Dakota,SD,46,67500.0,apr
+195,Tennessee,TN,47,55000.0,apr
+196,Texas,TX,48,55000.0,apr
+197,Utah,UT,49,67500.0,apr
+198,Vermont,VT,50,67500.0,apr
+199,Virginia,VA,51,67500.0,apr
+200,Washington,WA,53,67500.0,apr
+201,West Virginia,WV,54,45000.0,apr
+202,Wisconsin,WI,55,55000.0,apr
+203,Wyoming,WY,56,55000.0,apr
+204,Alabama,AL,1,62500.0,apr23_to_may05
+205,Alaska,AK,2,62500.0,apr23_to_may05
+206,Arizona,AZ,4,62500.0,apr23_to_may05
+207,Arkansas,AR,5,42500.0,apr23_to_may05
+208,California,CA,6,62500.0,apr23_to_may05
+209,Colorado,CO,8,87500.0,apr23_to_may05
+210,Connecticut,CT,9,62500.0,apr23_to_may05
+211,Delaware,DE,10,62500.0,apr23_to_may05
+212,District of Columbia,DC,11,87500.0,apr23_to_may05
+213,Florida,FL,12,62500.0,apr23_to_may05
+214,Georgia,GA,13,62500.0,apr23_to_may05
+215,Hawaii,HI,15,62500.0,apr23_to_may05
+216,Idaho,ID,16,62500.0,apr23_to_may05
+217,Illinois,IL,17,62500.0,apr23_to_may05
+218,Indiana,IN,18,62500.0,apr23_to_may05
+219,Iowa,IA,19,62500.0,apr23_to_may05
+220,Kansas,KS,20,62500.0,apr23_to_may05
+221,Kentucky,KY,21,62500.0,apr23_to_may05
+222,Louisiana,LA,22,62500.0,apr23_to_may05
+223,Maine,ME,23,62500.0,apr23_to_may05
+224,Maryland,MD,24,87500.0,apr23_to_may05
+225,Massachusetts,MA,25,87500.0,apr23_to_may05
+226,Michigan,MI,26,62500.0,apr23_to_may05
+227,Minnesota,MN,27,62500.0,apr23_to_may05
+228,Mississippi,MS,28,42500.0,apr23_to_may05
+229,Missouri,MO,29,62500.0,apr23_to_may05
+230,Montana,MT,30,62500.0,apr23_to_may05
+231,Nebraska,NE,31,62500.0,apr23_to_may05
+232,Nevada,NV,32,62500.0,apr23_to_may05
+233,New Hampshire,NH,33,62500.0,apr23_to_may05
+234,New Jersey,NJ,34,87500.0,apr23_to_may05
+235,New Mexico,NM,35,42500.0,apr23_to_may05
+236,New York,NY,36,62500.0,apr23_to_may05
+237,North Carolina,NC,37,62500.0,apr23_to_may05
+238,North Dakota,ND,38,62500.0,apr23_to_may05
+239,Ohio,OH,39,62500.0,apr23_to_may05
+240,Oklahoma,OK,40,62500.0,apr23_to_may05
+241,Oregon,OR,41,62500.0,apr23_to_may05
+242,Pennsylvania,PA,42,62500.0,apr23_to_may05
+243,Rhode Island,RI,44,62500.0,apr23_to_may05
+244,South Carolina,SC,45,62500.0,apr23_to_may05
+245,South Dakota,SD,46,62500.0,apr23_to_may05
+246,Tennessee,TN,47,62500.0,apr23_to_may05
+247,Texas,TX,48,62500.0,apr23_to_may05
+248,Utah,UT,49,62500.0,apr23_to_may05
+249,Vermont,VT,50,62500.0,apr23_to_may05
+250,Virginia,VA,51,87500.0,apr23_to_may05
+251,Washington,WA,53,62500.0,apr23_to_may05
+252,West Virginia,WV,54,62500.0,apr23_to_may05
+253,Wisconsin,WI,55,62500.0,apr23_to_may05
+254,Wyoming,WY,56,62500.0,apr23_to_may05
+255,Alabama,AL,1,62500.0,may07_to_may12
+256,Alaska,AK,2,62500.0,may07_to_may12
+257,Arizona,AZ,4,62500.0,may07_to_may12
+258,Arkansas,AR,5,42500.0,may07_to_may12
+259,California,CA,6,62500.0,may07_to_may12
+260,Colorado,CO,8,87500.0,may07_to_may12
+261,Connecticut,CT,9,87500.0,may07_to_may12
+262,Delaware,DE,10,62500.0,may07_to_may12
+263,District of Columbia,DC,11,125000.0,may07_to_may12
+264,Florida,FL,12,62500.0,may07_to_may12
+265,Georgia,GA,13,62500.0,may07_to_may12
+266,Hawaii,HI,15,62500.0,may07_to_may12
+267,Idaho,ID,16,62500.0,may07_to_may12
+268,Illinois,IL,17,62500.0,may07_to_may12
+269,Indiana,IN,18,62500.0,may07_to_may12
+270,Iowa,IA,19,62500.0,may07_to_may12
+271,Kansas,KS,20,62500.0,may07_to_may12
+272,Kentucky,KY,21,62500.0,may07_to_may12
+273,Louisiana,LA,22,62500.0,may07_to_may12
+274,Maine,ME,23,62500.0,may07_to_may12
+275,Maryland,MD,24,87500.0,may07_to_may12
+276,Massachusetts,MA,25,87500.0,may07_to_may12
+277,Michigan,MI,26,62500.0,may07_to_may12
+278,Minnesota,MN,27,62500.0,may07_to_may12
+279,Mississippi,MS,28,42500.0,may07_to_may12
+280,Missouri,MO,29,62500.0,may07_to_may12
+281,Montana,MT,30,62500.0,may07_to_may12
+282,Nebraska,NE,31,62500.0,may07_to_may12
+283,Nevada,NV,32,62500.0,may07_to_may12
+284,New Hampshire,NH,33,62500.0,may07_to_may12
+285,New Jersey,NJ,34,87500.0,may07_to_may12
+286,New Mexico,NM,35,42500.0,may07_to_may12
+287,New York,NY,36,62500.0,may07_to_may12
+288,North Carolina,NC,37,62500.0,may07_to_may12
+289,North Dakota,ND,38,62500.0,may07_to_may12
+290,Ohio,OH,39,62500.0,may07_to_may12
+291,Oklahoma,OK,40,42500.0,may07_to_may12
+292,Oregon,OR,41,62500.0,may07_to_may12
+293,Pennsylvania,PA,42,62500.0,may07_to_may12
+294,Rhode Island,RI,44,62500.0,may07_to_may12
+295,South Carolina,SC,45,62500.0,may07_to_may12
+296,South Dakota,SD,46,62500.0,may07_to_may12
+297,Tennessee,TN,47,62500.0,may07_to_may12
+298,Texas,TX,48,62500.0,may07_to_may12
+299,Utah,UT,49,62500.0,may07_to_may12
+300,Vermont,VT,50,62500.0,may07_to_may12
+301,Virginia,VA,51,62500.0,may07_to_may12
+302,Washington,WA,53,62500.0,may07_to_may12
+303,West Virginia,WV,54,42500.0,may07_to_may12
+304,Wisconsin,WI,55,62500.0,may07_to_may12
+305,Wyoming,WY,56,62500.0,may07_to_may12
+306,Alabama,AL,1,62500.0,may14_to_may19
+307,Alaska,AK,2,62500.0,may14_to_may19
+308,Arizona,AZ,4,62500.0,may14_to_may19
+309,Arkansas,AR,5,42500.0,may14_to_may19
+310,California,CA,6,62500.0,may14_to_may19
+311,Colorado,CO,8,62500.0,may14_to_may19
+312,Connecticut,CT,9,87500.0,may14_to_may19
+313,Delaware,DE,10,62500.0,may14_to_may19
+314,District of Columbia,DC,11,87500.0,may14_to_may19
+315,Florida,FL,12,62500.0,may14_to_may19
+316,Georgia,GA,13,62500.0,may14_to_may19
+317,Hawaii,HI,15,87500.0,may14_to_may19
+318,Idaho,ID,16,62500.0,may14_to_may19
+319,Illinois,IL,17,62500.0,may14_to_may19
+320,Indiana,IN,18,62500.0,may14_to_may19
+321,Iowa,IA,19,62500.0,may14_to_may19
+322,Kansas,KS,20,62500.0,may14_to_may19
+323,Kentucky,KY,21,62500.0,may14_to_may19
+324,Louisiana,LA,22,62500.0,may14_to_may19
+325,Maine,ME,23,62500.0,may14_to_may19
+326,Maryland,MD,24,87500.0,may14_to_may19
+327,Massachusetts,MA,25,87500.0,may14_to_may19
+328,Michigan,MI,26,62500.0,may14_to_may19
+329,Minnesota,MN,27,62500.0,may14_to_may19
+330,Mississippi,MS,28,42500.0,may14_to_may19
+331,Missouri,MO,29,62500.0,may14_to_may19
+332,Montana,MT,30,62500.0,may14_to_may19
+333,Nebraska,NE,31,62500.0,may14_to_may19
+334,Nevada,NV,32,62500.0,may14_to_may19
+335,New Hampshire,NH,33,62500.0,may14_to_may19
+336,New Jersey,NJ,34,87500.0,may14_to_may19
+337,New Mexico,NM,35,62500.0,may14_to_may19
+338,New York,NY,36,62500.0,may14_to_may19
+339,North Carolina,NC,37,62500.0,may14_to_may19
+340,North Dakota,ND,38,62500.0,may14_to_may19
+341,Ohio,OH,39,62500.0,may14_to_may19
+342,Oklahoma,OK,40,42500.0,may14_to_may19
+343,Oregon,OR,41,62500.0,may14_to_may19
+344,Pennsylvania,PA,42,62500.0,may14_to_may19
+345,Rhode Island,RI,44,62500.0,may14_to_may19
+346,South Carolina,SC,45,62500.0,may14_to_may19
+347,South Dakota,SD,46,62500.0,may14_to_may19
+348,Tennessee,TN,47,62500.0,may14_to_may19
+349,Texas,TX,48,62500.0,may14_to_may19
+350,Utah,UT,49,62500.0,may14_to_may19
+351,Vermont,VT,50,87500.0,may14_to_may19
+352,Virginia,VA,51,87500.0,may14_to_may19
+353,Washington,WA,53,87500.0,may14_to_may19
+354,West Virginia,WV,54,42500.0,may14_to_may19
+355,Wisconsin,WI,55,62500.0,may14_to_may19
+356,Wyoming,WY,56,62500.0,may14_to_may19
